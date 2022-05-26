@@ -1,0 +1,11 @@
+{
+    "Token": "TOKEN DU BOT",
+    "Prefix": "PREFIX DU BOT",
+
+    "DB": {
+        "host": "HOST DE LA DATABASE",
+        "user": "USER DE LA DATABASE",
+        "database": "NOM DE LA DATABASE",
+        "password": "MOT DE PASSE"
+    }
+}
